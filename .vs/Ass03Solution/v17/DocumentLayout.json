@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\estore\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|c:\\users\\admin\\desktop\\semester5\\prn211\\ass3\\prn211-main\\ass03solution\\businessobject\\models\\assignment2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\assignment2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46D053F-EDA8-4E46-A393-EE72944479C3}|DataAccess\\DataAccess.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46D053F-EDA8-4E46-A393-EE72944479C3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\businessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\businessobject\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\businessobject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\businessobject\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C1C32-305D-42FF-9AEC-A8AE49765C84}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46D053F-EDA8-4E46-A393-EE72944479C3}|DataAccess\\DataAccess.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\dataaccess\\repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46D053F-EDA8-4E46-A393-EE72944479C3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|solutionrelative:estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\estore\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC5A988-14DF-4BCC-8AE6-7B98510A176E}|eStore\\eStore.csproj|solutionrelative:estore\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:02:02.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:01:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:01:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Order.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:46:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Member.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:46:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAewEAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:46:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment2Context.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Assignment2Context.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Assignment2Context.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\BusinessObject\\Models\\Assignment2Context.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Assignment2Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA/wDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:45:59.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:56:31.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\appsettings.json",
+              "RelativeToolTip": "eStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T06:51:09.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Views\\Members\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Semester5\\PRN211\\Ass3\\PRN211-main\\Ass03Solution\\eStore\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "eStore\\Views\\Members\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T06:46:36.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
